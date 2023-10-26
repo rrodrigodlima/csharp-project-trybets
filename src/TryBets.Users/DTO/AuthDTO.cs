@@ -8,5 +8,5 @@ public class AuthDTORequest
 
 public class AuthDTOResponse
 {
-  public string Token { get; internal set; }
+  public string? Token { get; internal set; }
 }
